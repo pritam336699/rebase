@@ -1,4 +1,4 @@
 these is conflict
 hi these is conflict
+these is solution of conflict
 given by git
-
